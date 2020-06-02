@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dennnis
 ffff
+=======
+from linux
+>>>>>>> d835d5336bd8f76e8f703e4ac81f01ee96247443
